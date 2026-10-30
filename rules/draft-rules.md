@@ -25,5 +25,6 @@
 
 ## My rule
 
-Add one rule of your own here, and say what it does. A sentence or two is
-plenty.
+Player's card's attack may carry over through a defending card if they caused over +1 damage to its remaining defense.
+Example: (Player 1) plays 10. (Player 2) plays 8. (Player 1) 10 beats 8 by +2. (Player 1) causes 1 damage to player 2.
+I think this will cause very unbalanced fights to be more costly and slowly chip at every players large health pool quicker. 
