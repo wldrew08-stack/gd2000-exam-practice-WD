@@ -4,7 +4,7 @@ Answer each question in a few sentences. There are no trick questions and no
 single right answer. We are looking for specific reasoning, not definitions
 copied from somewhere.
 
-Write your answer under each question, replacing the "(answer here)" line.
+https://github.com/wldrew08-stack/gd2000-exam-practice-WD.git
 
 ## 1. Is it a game?
 
@@ -13,7 +13,12 @@ players do for fun." Pick one of Cookie Clicker, The Stanley Parable, or
 Minecraft in Creative Mode. Argue whether it is a game under that definition,
 and say which part of the definition it stresses or breaks.
 
-(answer here)
+Cookie Clicker. The game does have a structure to its play in objectives and mechanisms.
+Your objective is to grow your cookie production to biblical levels by reinvesting cookies into production.
+You can only increases production by buying more grandmas, farms, mines etc. buying upgrades 
+for those production modes or just clicking the big cookie and making more yourself.
+The game does stress the definition because there is no end and you don't have any threat factor 
+that may prevent you from achieving your production. However I find it to still be a game.
 
 ## 2. Three games
 
